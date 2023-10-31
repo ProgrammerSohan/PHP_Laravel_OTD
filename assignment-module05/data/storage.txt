@@ -1,0 +1,6 @@
+admin,sohan,sohan@gmail.com,12345678
+user,Prince Noman,noman@gmail.com,12345678
+manager,Manager01,manager01@gmail.com,12345678
+user,Test01,test1@gmail.com,12345678
+user,Test02,test02@gmail.com,12345678
+user,Test03,test03@gmail.com,12345678
